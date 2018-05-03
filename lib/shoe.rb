@@ -17,5 +17,10 @@ class Shoe
   def brand
     @brand = brand
   end
+<<<<<<< HEAD
+=======
+  
+
+>>>>>>> a83a73a7e7cfdb46b45544381a4278180efafb65
 
 end
